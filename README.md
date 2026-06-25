@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Huang Rui 👋
 
-<!--
-**uangh66/uangh66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Huang Rui, also known as **DaHuang**.
 
-Here are some ideas to get you started:
+I'm a CS undergraduate focusing on AI application development, practical software tools, and full-stack application projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+- [CleanHelper](https://github.com/uangh66/CleanHelper) — A Windows desktop cleaner built with C# WPF and .NET 8.
+- [Terminal GIF Player](https://github.com/uangh66/terminal-gif-player) — A PowerShell terminal GIF player with ANSI true-color rendering and LRC lyrics sync.
+
+## About Me
+
+- 🎓 Computer Science undergraduate
+- 🤖 Interested in AI application development
+- 🛠️ Building practical tools and small products
+- 🌱 Learning by building, documenting, and open-sourcing projects
